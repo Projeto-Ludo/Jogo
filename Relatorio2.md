@@ -31,4 +31,4 @@ Desde o último relatório, tivemos mudanças drásticas que influenciaram no av
 - **Edson Guimarães (designer):** Um bom designer. Disposto a ajudar sempre que possível e dedicado quando lhe é fornecida alguma tarefa. Ajudou na criação do tabuleiro na escolha da paleta de cores do mesmo. Esteve presente em todas as reuniões e não apresentou problema algum.
 - **Joel José (designer)**: Apesar de não ter estado presente na primeira reunião, ajudou no desenvolvimento do jogo, fazendo a tela splash e o logotipo do jogo. Além disso, ajudou a fazer a tela de configurações para o jogo.
 
-Estes foram alguns 
+Estes foram alguns dos pontos indiviuais e aplicativos que ajudaram a avançar com o projeto ao longo da semana, 
